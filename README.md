@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Daniel Martins
-
 I'm a _JavaScript_/_TypeScript_ Full-Stack Developer (Node.js, ReactJS, React Native).<br/>
 
 Here on my GitHub profile you can see all my projects.
